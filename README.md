@@ -8,3 +8,5 @@ Exercise02. Replace all elements of the array greater than the given Z with this
 Exercise03. Count number of positive, negative and zero elements in the array.
 
 Exercise04. Swap the largest and smallest elements in the array.
+
+Exercise05. Print only those numbers for which ai> i.
