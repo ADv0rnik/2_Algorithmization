@@ -12,3 +12,5 @@ Exercise04. Swap the largest and smallest elements in the array.
 Exercise05. Print only those numbers for which ai> i.
 
 Exercise06. Calculate the sum of numbers whose ordinal numbers are prime numbers.
+
+Exercise07. Define max(a1 + a_2n, a2 + a_2n-1, ..., a_n + a_n+1) for an array of real numbers
