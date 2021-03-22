@@ -10,3 +10,5 @@ Exercise03. Count number of positive, negative and zero elements in the array.
 Exercise04. Swap the largest and smallest elements in the array.
 
 Exercise05. Print only those numbers for which ai> i.
+
+Exercise06. Calculate the sum of numbers whose ordinal numbers are prime numbers.
