@@ -16,3 +16,5 @@ Exercise06. Calculate the sum of numbers whose ordinal numbers are prime numbers
 Exercise07. Define max(a1 + a_2n, a2 + a_2n-1, ..., a_n + a_n+1) for an array of real numbers
 
 Exercise08. Given a sequence of integers a1,a2,...,a_n. Create a new sequence by removing from the original those elements that are correspond to min(a1,a2, ,an).
+
+Exercise09. In an array of integers with length n find the most common number. If there are more than one of these numbers, define the smallest one.
