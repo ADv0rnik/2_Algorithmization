@@ -12,20 +12,20 @@ public class Exercise09 {
         }
         int repeatedNum = num[0];
         int repCount = 1;
-        int counter = 0;
+        int count = 0;
         for(int i = 0; i < num.length; i++){
             for(int j = 0; j < num.length; j++){
                 if(num[i]==num[j]){
-                    counter++;
+                    count++;
                 }
             }
-            if(((repCount == counter) && (repeatedNum>num[i])) || (repCount<counter)){
+            if(((repCount == count) && (repeatedNum>num[i])) || (repCount<count)){
                 repeatedNum = num[i];
-                repCount = counter;
+                repCount = count;
             }
-            counter = 0;
+            count = 0;
         }
         System.out.println();
-        System.out.println(repeatedNum + " "+ repCount);//wtf?
+        System.out.println("Repeated number is: " + repeatedNum + "\n"+ "With number of counts: " + repCount);//wtf?
     }
 }
