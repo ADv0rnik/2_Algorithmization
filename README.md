@@ -22,3 +22,5 @@
 **Exercise10.** Compress the array, discarding every second element from it (fill the vacated elements with zeros).
 
 **Exercise11.** A matrix is given. Display all odd columns with the first item greater than the last.
+
+**Exercise12.** A square matrix is given. Display all elements on a diagonal
