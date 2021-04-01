@@ -12,9 +12,9 @@ public class Exercise13 {
             int k = Integer.parseInt(reader.readLine());
             System.out.println("Enter p-column number : ");
             int p = Integer.parseInt(reader.readLine());
-            for(int i= 0; i<twoDimArray.length; i++){
-                for (int j = 0; j< twoDimArray.length; j++){
-                    System.out.print(" "+ twoDimArray[i][j] + " ");
+            for (int[] ints : twoDimArray) {
+                for (int j = 0; j < twoDimArray.length; j++) {
+                    System.out.print(" " + ints[j] + " ");
                 }
                 System.out.println();
             }
@@ -28,8 +28,8 @@ public class Exercise13 {
                 }
                 System.out.println();
                 System.out.println("p-column:");
-                for (int j = 0; j< twoDimArray.length; j++){
-                    System.out.print(" "+twoDimArray[j][p]+" ");
+                for (int[] ints : twoDimArray) {
+                    System.out.print(" " + ints[p] + " ");
                     System.out.println();
                 }
             }
