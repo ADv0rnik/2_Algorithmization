@@ -26,3 +26,5 @@
 **Exercise11.** A matrix is given. Display all odd columns with the first item greater than the last.
 
 **Exercise12.** A square matrix is given. Display all elements on a diagonal
+
+**Exercise13.** A matrix is given. Print the k-row and p-column of the matrix
