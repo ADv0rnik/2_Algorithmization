@@ -1,6 +1,6 @@
 # 2_Algorithmization
 ## Second module of Introduction to JAVA course (by EPAM)
-
+### One-dimensional arrays
 **Exercise01.** Find the sum of elements in the array A[N] that are multiples of a given K.
 
 **Exercise02.** Replace all elements of the array greater than the given Z with this value. Show number of replacements.
@@ -20,6 +20,8 @@
 **Exercise09.** In an array of integers with length n find the most common number. If there are more than one of these numbers, define the smallest one.
 
 **Exercise10.** Compress the array, discarding every second element from it (fill the vacated elements with zeros).
+
+### Arrays of arrays.
 
 **Exercise11.** A matrix is given. Display all odd columns with the first item greater than the last.
 
