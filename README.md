@@ -28,3 +28,12 @@
 **Exercise12.** A square matrix is given. Display all elements on a diagonal
 
 **Exercise13.** A matrix is given. Print the k-row and p-column of the matrix
+
+**Exercise14.** Create a square matrix of order n according to a given pattern (n is even):
+        | 1	2	3	...	n     |
+        | n	n-1	n-2	...	1 |
+        | 1	2	3	...	n     |
+        | n	n-1	n-2	...	1 |
+        | 1	2	3	...	n     |
+        | n	n-1	n-2	...	1 |
+        
